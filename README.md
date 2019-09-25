@@ -1,4 +1,8 @@
 # GAN-Metric
+Basics to training models (to generalize to unseen data):
+http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec12.pdf
+
+
 Look at Architecture guidelines on page 3 
 https://arxiv.org/abs/1511.0643
 
