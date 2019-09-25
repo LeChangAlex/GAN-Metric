@@ -1,5 +1,5 @@
 # GAN-Metric
-Look at Architecture guidlines on page 3 
+Look at Architecture guidelines on page 3 
 https://arxiv.org/abs/1511.0643
 
 This is what we use:
